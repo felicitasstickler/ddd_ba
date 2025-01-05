@@ -14,5 +14,5 @@ This is the website for my bachelor thesis which is based on the project ["Digit
 **Last update**: Jan 5th 2025
 
 # Overview
-- [CAP1905](https://felicitasstickler.github.io/CAP1905.html)
+- [CAP1905](https://felicitasstickler.github.io/data/CAP1905/index.html)
 - [RIE1905](https://felicitasstickler.github.io/data/RIE1905/index.html)
