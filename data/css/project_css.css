@@ -1,0 +1,81 @@
+tei-div {
+  display: block;
+}
+tei-p {
+  display: block;
+  margin-top: .5em;
+  margin-bottom: .5em;
+}
+tei-list[type=simple] {
+  list-style-type: none;
+}
+tei-list[type=simple]>tei-item {
+  display: list-item;
+}
+tei-lb:before {
+  white-space: pre;
+  content: "\A";
+}
+tei-person_author {
+    color: #784516;
+    font-weight: bold;
+}
+tei-text {
+    display: inline;
+    color: black;
+    font-family: "Garamond";
+}
+tei-person_composer{
+    color: #c48aff;
+    font-weight: bold; 
+    
+}
+
+tei-concept_mus {
+    background-color: #ffd3a2;
+    
+}
+
+tei-concept_phy {
+    background-color: #f7f3c2;
+    
+}
+tei-work_text {
+    color: #be5402;
+    font-style: italic;
+}
+
+tei-work_music {
+    color: #ff7fa2;
+    font-style: italic;
+}
+
+tei-m_chord {
+    color: #618bd1;
+}
+
+tei-m_interval{
+    color: #2fecdd;
+}
+
+tei-m_note {
+    color: #0079ba;
+}
+
+tei-m_tonality {
+    color: #00b1e2;
+}
+
+tei-hi {
+    margin-left: 0.25em;
+    margin-right: 0.25em;
+}
+tei-time {
+    font-style: oblique;
+    color: SlateBlue;
+}
+
+tei-location {
+    font-style: oblique;
+    color: Gray;
+}
