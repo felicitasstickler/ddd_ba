@@ -1,3 +1,4 @@
 # ddd_ba
+Repository for the bachelor thesis
 
-# Test
+* GitHub page on branch `page`
