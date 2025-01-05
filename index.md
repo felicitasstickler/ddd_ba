@@ -12,3 +12,6 @@ This is the website for my bachelor thesis which is based on the project ["Digit
 
 ---
 **Last update**: Jan 5th 2025
+
+# Overview
+- [CAP1905](https://felicitasstickler.github.io/CAP1905.html)
