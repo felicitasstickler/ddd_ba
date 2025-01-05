@@ -15,3 +15,4 @@ This is the website for my bachelor thesis which is based on the project ["Digit
 
 # Overview
 - [CAP1905](https://felicitasstickler.github.io/CAP1905.html)
+- [RIE1905](https://felicitasstickler.github.io/RIE1905.html)
