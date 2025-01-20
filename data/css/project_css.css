@@ -80,6 +80,5 @@ tei-location {
     color: Gray;
 }
 tei-body {
-  background-color: skyBlue; 
-	color: midnightblue;
+  max-width: 100%;
 }
