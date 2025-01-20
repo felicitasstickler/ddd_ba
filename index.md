@@ -9,6 +9,9 @@ nav_order: 1
 {: .fs-9 }
 
 This is the website for my bachelor thesis which is based on the project ["Digitizing the Dualism Debate"](https://dcmlab.github.io/ddd/). 
+---
+# Projects
+- [Ein minimales Modell Modell für die gemischte Kodierung von Text (TEI) und Musiknotation (MEI)](https://github.com/felicitasstickler/ba-thesis/blob/pages/index.md)
 
 ---
 **Last update**: Jan 5th 2025
