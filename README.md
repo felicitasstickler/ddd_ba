@@ -1,4 +1,4 @@
-# ddd_ba
-Repository for the bachelor thesis
+# Meine Projekte
+
 
 * GitHub page on branch `page`
