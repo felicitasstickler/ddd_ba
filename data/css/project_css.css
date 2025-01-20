@@ -79,3 +79,6 @@ tei-location {
     font-style: oblique;
     color: Gray;
 }
+tei-text {
+  max-width: 100%;
+}
