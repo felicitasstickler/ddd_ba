@@ -18,5 +18,5 @@ This is the website for my bachelor thesis which is based on the project ["Digit
 
 # Overview
 - [CAP1905](https://felicitasstickler.github.io/data/CAP1905/index.html)
-- [CAP2](https://github.com/felicitasstickler/ba-thesis/blob/main/texts/CAP1905/index.html)
+- [CAP2](https://felicitasstickler.github.io/ba-thesis/texts/CAP1905/index.html)
 - [RIE1905](https://felicitasstickler.github.io/ba-thesis/texts/RIE1905/index.html)
