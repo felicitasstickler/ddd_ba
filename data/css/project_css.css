@@ -79,6 +79,7 @@ tei-location {
     font-style: oblique;
     color: Gray;
 }
-tei-text {
-  max-width: 100%;
+tei-body {
+  background-color: skyBlue; 
+	color: midnightblue;
 }
